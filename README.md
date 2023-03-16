@@ -1,2 +1,2 @@
-#№ python_autotests
+## python_autotests
 - Пример автотестов на pytest + requests
